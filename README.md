@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Jesri 👋
 
-<!--
-**JesriJ/JesriJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Maryland interested in software engineering, backend systems, distributed systems, databases, and AI.
 
-Here are some ideas to get you started:
+I enjoy building practical software and exploring how systems work under the hood. I'm particularly interested in building reliable backend systems and using automation and AI to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies
+
+Languages: Java, Python, TypeScript, JavaScript, C, SQL
+
+Backend & Systems: Spring Boot, FastAPI, PostgreSQL, Redis, REST APIs, WebSockets, Redis Streams
+
+Tools: Docker, Git, GitHub, Prisma
+
+🚀 Projects
+Distributed Email Processing System — Java, Spring Boot, Redis Streams, Python
+Contractor Marketplace — Next.js, TypeScript, PostgreSQL, Prisma, Docker
+Trading Analytics Platform — Java, Spring Boot, React, TypeScript, Redis, WebSockets
+📫 Connect
+
+LinkedIn
