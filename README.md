@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Project Title</h1>
-  <hr>
+  <h1>About Me 👋</h1>
 </div>
 Hello, I'm Jesri. I’m a Computer Science student at the University of Maryland interested in software engineering, fullstack development (frontend & backend), distributed systems, databases, and AI. <br><br>I enjoy building practical and impactful software aswell as learning how systems work under the hood. I’ve worked on full-stack applications, real-time systems, distributed processing, AI-integrated projects and software used by real users. <br><br>I’m always looking for opportunities to learn, build, and work on engineering problems. Feel free to reach out!
 
